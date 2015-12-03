@@ -2,4 +2,4 @@
 
 Roger Chen and Shimiao Huang
 
-This repo contains scripts we used to scrape twitter and the classier.
+This repo contains scripts we used to scrape twitter and the classifier.
