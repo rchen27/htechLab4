@@ -1,4 +1,4 @@
-CS 5555 Lab 4
+CS 5555 Lab 4 Machine Learning and Twitter
 -----------------------
 
 ### Team
